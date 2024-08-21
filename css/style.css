@@ -555,6 +555,12 @@ header {
     margin: 2rem 0;
 }
 
+/* PRIVACY POLICY */
+
+.privacy {
+    padding: 3rem;
+}
+
 /* MEDIA QUERIES */
 
 @media (max-width: 992px) {
